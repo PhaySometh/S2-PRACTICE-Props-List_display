@@ -1,0 +1,8 @@
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px; /* Space between cards */
+    justify-content: center;
+    max-width: 960px; /* 300px * 3 + 20px * 2 = 960px */
+    margin: 0 auto; /* Center the container */
+  }
