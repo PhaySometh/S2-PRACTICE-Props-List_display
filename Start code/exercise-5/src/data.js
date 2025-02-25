@@ -23,7 +23,7 @@ export const ALL_PICTURES = [
         title: "Khun Sophavisnuka",
         name: "The god, Visnuka DD:",
         major: "Software Engineering",
-        expert: "Gooner & Kid edging",
+        expert: "Kid mocking, like playing grind game",
         image: {
             src: visnukaImg,
             alt: "VisnukaDD: image",
@@ -56,7 +56,7 @@ export const ALL_PICTURES = [
         title: "Pheng Lyming",
         name: "Lyming Pdey kakda sophorn",
         major: "Software Engineering",
-        expert: "designer, fk with tena",
+        expert: "designer, love tena song so bad",
         image: {
             src: mingImg,
             alt: "Lyming image",
@@ -67,7 +67,7 @@ export const ALL_PICTURES = [
         title: "Um Lyrithyreach",
         name: "The bak kid, Um Lyrithyreach",
         major: "Software Engineering",
-        expert: "Gonner, PDF, yapping nonsense",
+        expert: "PDF, yapping nonsense",
         image: {
             src: reachImg,
             alt: "rithyreach image",
